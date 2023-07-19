@@ -1,13 +1,17 @@
 .main-content{
-    min-height: 100vh;
+    min-height: 90vh;
     background-color: white;
-    background-image: url("../pic/pexels-anete-lusina-4792347.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     height: 100%;
 }
+
+.index-main{
+    background-image: url("../pic/pexels-anete-lusina-4792347.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 
 .greeting {
     align-items: center;
@@ -23,13 +27,34 @@
 }
 
 #findplant {
-    background-color: forestgreen;
+    background-color: rgb(56, 168, 56);
 }
 
 .tree-pic{
+    
     margin-left: auto;
     margin-right: auto;
     margin-top: 10%;
     padding-top: 5%;
     border-radius: 10px;
+}
+
+
+footer{
+    padding: 50px;
+    font-family: 'Brush Script MT', cursive;
+}
+
+#adjust{
+    height: 100px;
+}
+
+.brown{
+    background-color: #643e36;
+    border-color: white;
+}
+
+.green{
+    border-color: white;
+    background-color: rgb(66, 168, 66);
 }
