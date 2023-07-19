@@ -1,7 +1,7 @@
 .main-content{
     min-height: 100vh;
     background-color: aqua;
-    background-image: url("../pic/361566274_567216222289883_2550534116236305321_n.jpg");
+    background-image: url("../pic/pexels-anete-lusina-4792347.jpg");
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -11,3 +11,11 @@
     align-items: center;
 } 
 
+.text-logo {
+    font-family: 'Brush Script MT', cursive;
+    color: white;
+}
+
+.transparent {
+    background-color: transparent !important;
+}
