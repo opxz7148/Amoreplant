@@ -17,6 +17,10 @@
     align-items: center;
 } 
 
+.greeting-box {
+    margin: auto;    
+}
+
 .text-logo {
     font-family: 'Brush Script MT', cursive;
     color: white;
@@ -46,6 +50,7 @@ footer{
     padding: 50px;
     font-family: 'Brush Script MT', cursive;
     border: 1px solid #dee2e6!important;
+    color: rgb(56, 168, 56);
 }
 
 #adjust{
@@ -61,3 +66,13 @@ footer{
     border-color: white;
     background-color: rgb(66, 168, 66);
 }
+
+#describ{
+    margin: auto ;
+}
+
+#greeting-box-con{
+    height: 80vh;
+
+}
+
