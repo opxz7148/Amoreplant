@@ -6,6 +6,12 @@
     height: 100%;
 }
 
+#contact-main{
+    background-image: url("../pic/pexels-anete-lusina-4792347.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 .greeting {
     align-items: center;
 } 
