@@ -6,13 +6,6 @@
     height: 100%;
 }
 
-.index-main{
-    background-image: url("../pic/pexels-anete-lusina-4792347.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-
-
 .greeting {
     align-items: center;
 } 
@@ -22,8 +15,7 @@
 }
 
 .text-logo {
-    font-family: 'Brush Script MT', cursive;
-    color: white;
+    color: rgb(56, 168, 56);
     
 }
 
@@ -74,5 +66,13 @@ footer{
 #greeting-box-con{
     height: 80vh;
 
+}
+
+.border-brown{
+    border: 4px solid #6C3428;
+}
+
+.border-gold{
+    border: 4px solid #FFD95A;
 }
 
