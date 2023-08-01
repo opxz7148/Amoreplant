@@ -7,7 +7,13 @@
 }
 
 #contact-main{
-    background-image: url("../pic/pexels-anete-lusina-4792347.jpg");
+    background-image: url("../pic/con-back.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#index-main{
+    background-image: url("../pic/index-back.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -22,6 +28,7 @@
 
 .text-logo {
     color: rgb(56, 168, 56);
+    /* color: white; */
     
 }
 
