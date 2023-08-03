@@ -13,7 +13,7 @@
 }
 
 #index-main{
-    background-image: url("../pic/index-back.jpg");
+    background-image: url("../pic/marbleback.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -79,12 +79,12 @@ footer{
 
 }
 
-.border-brown{
+/* .border-brown{
     border: 4px solid #6C3428;
-}
+} */
 
 .border-gold{
-    border: 4px solid #FFD95A;
+    border: 4px solid white;
 }
 
 .tree-name{
