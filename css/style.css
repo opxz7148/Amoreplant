@@ -41,6 +41,7 @@
 }
 
 .tree-pic{
+    min-height: 40vh;
     margin-left: 2%;
     margin-right: 2%;
     margin-top: 2%;
@@ -89,4 +90,10 @@ footer{
 
 .tree-name{
     font-size: 12px;
+    height: 30%;
+    margin-bottom: 15px;
+}
+
+.tree-img{
+    height: 180px;
 }
